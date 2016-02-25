@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bacolod events]]></title>
         <description><![CDATA[Bacolod events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bacolod-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 08:08:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 08:12:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bacolod-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dancing in 1 Voice | Bacolod Pages]]></title>
+            <description><![CDATA[<article><h1>Dancing in 1 Voice | Bacolod Pages</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcd974a3dcc0fb8fed574e87e5cbdbb8bd731c1b.jpg"></article>]]></description>
+            <link>https://bacolodpages.com/event-details/dancing-1-voice</link>
+            <guid isPermaLink="false">dfbc0753-bd0b-48c0-8600-3c5003ba4dc0</guid>
+            <pubDate>Thu, 25 Feb 2016 08:12:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BTX Shop's 3rd Anniversary: RIDE WITH PRIDE 2]]></title>
             <description><![CDATA[<article><h1>BTX Shop's 3rd Anniversary: RIDE WITH PRIDE 2</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52096ca42ee3316db8c86094f860e6adee85a8ca.jpg"></article>]]></description>
